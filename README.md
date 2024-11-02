@@ -45,3 +45,4 @@ custom_components/
   "codeowners": ["@BigSlick76"],
   "version": "1.0.0"
 }
+![Logo](http://francky.me/images/quora001.png)
