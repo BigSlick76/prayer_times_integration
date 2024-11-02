@@ -1,5 +1,5 @@
-# prayer_times_integration_csv
-prayer_times_integration_csv
+# prayer_times_integration
+prayer_times_integration
 
 # Prayer Times Integration
 
