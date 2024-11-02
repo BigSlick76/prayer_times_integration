@@ -1,0 +1,5 @@
+{
+    "name": "PRAYER_TIMES",
+    "render_readme": true,
+    "persistent_directory": "prayer_times/data"
+}
